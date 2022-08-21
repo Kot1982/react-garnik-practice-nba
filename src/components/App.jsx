@@ -8,7 +8,7 @@ import {NotFoundView} from '../views/NotFoundView/NotFoundView'
 export const App = () => {
   return (
     <Routes>
-      <Route path='/' element={<Layout />}>
+      <Route path='home' element={<Layout />}>
          <Route index element={<HomeViews/>} /> 
          <Route path='events' element={<EventsView />}> 
           <Route path=':eventId' element={<EventSubView/> } />
