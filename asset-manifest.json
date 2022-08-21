@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-garnik-practice-nba/static/css/main.7acaea2f.css",
-    "main.js": "/react-garnik-practice-nba/static/js/main.2fc55222.js",
+    "main.js": "/react-garnik-practice-nba/static/js/main.61887dc5.js",
     "index.html": "/react-garnik-practice-nba/index.html",
     "main.7acaea2f.css.map": "/react-garnik-practice-nba/static/css/main.7acaea2f.css.map",
-    "main.2fc55222.js.map": "/react-garnik-practice-nba/static/js/main.2fc55222.js.map"
+    "main.61887dc5.js.map": "/react-garnik-practice-nba/static/js/main.61887dc5.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.2fc55222.js"
+    "static/js/main.61887dc5.js"
   ]
 }
