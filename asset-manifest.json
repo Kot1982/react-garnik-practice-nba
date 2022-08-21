@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-garnik-practice-nba/static/css/main.7acaea2f.css",
+    "main.js": "/react-garnik-practice-nba/static/js/main.636880dd.js",
+    "index.html": "/react-garnik-practice-nba/index.html",
+    "main.7acaea2f.css.map": "/react-garnik-practice-nba/static/css/main.7acaea2f.css.map",
+    "main.636880dd.js.map": "/react-garnik-practice-nba/static/js/main.636880dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.636880dd.js"
+  ]
+}
